@@ -1,0 +1,33 @@
+* {
+  background-color: black;
+  text-align: center;
+}
+
+#topheader h1{
+  font-weight: Bold;
+  font-size: 50px;
+  text-align: center;
+}
+
+.download a{
+  color: Aquamarine;
+  font-size: 16px;
+}
+
+.headers {
+  color: white;
+  font-family: verdana;
+  font-weight: 300;
+  font-size: 42px;
+}
+
+.pgray {
+  font-family: verdana;
+  font-size: 21px;
+  color: gray;
+}
+
+.footer {
+  text-align: right;
+  color: gray;
+}
